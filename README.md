@@ -22,8 +22,7 @@ sudo apt install -y \
 These packages are required to compile Python from source using make.
 For other operating systems, install the equivalent development packages using the native package manager:
 
-    RPM-based Linux distributions (e.g. Fedora, RHEL, CentOS, openSUSE): use dnf, yum or zypper
-
-    macOS: use brew (Homebrew)
+* RPM-based Linux distributions (e.g. Fedora, RHEL, CentOS, openSUSE): use dnf, yum or zypper
+* macOS: use brew (Homebrew)
 
 The required packages may have different names depending on the operating system.
