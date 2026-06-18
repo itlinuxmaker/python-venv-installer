@@ -6,7 +6,8 @@ This project is developed for Debian-based Linux systems.
 
 Before running the installer, the following packages should be installed:
 
-sudo apt update
+sudo apt update 
+
 sudo apt install -y \
     build-essential \
     wget \
